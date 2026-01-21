@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>vjezba 2</title>
+</head>
+<body>
+<h2>Multimedija</h2>
+<video width="" height="" controls>
+    <source src="slike/moj video.mp4" type="video/mp4"/>
+</video>	
+</body>
+</html>
